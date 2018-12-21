@@ -1,0 +1,10 @@
+        Employee Oleg = new Employee("Oleg","Matyuhov");
+        Employee Ilya = new Employee("Ilya","Velichko", "TopProgrmmist", 1000000);
+        Oleg.GetName();
+        Oleg.GetSurname();
+        Oleg.GetPosition();
+        Oleg.GetSalary();
+        Ilya.GetName();
+        Ilya.GetSurname();
+        Ilya.GetPosition();
+        Ilya.GetSalary();
